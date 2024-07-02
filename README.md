@@ -7,7 +7,8 @@ Este projeto foi desenvolvido por mim como parte de um sistema de gerenciamento 
 ## 🛠️ Tecnologias Utilizadas
 
 - ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python&logoColor=white): Linguagem de programação utilizada para desenvolver a lógica do sistema.
-- ![Git](https://img.shields.io/badge/Git-Commit-black?style=flat-square&logo=git&logoColor=white) e ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github&logoColor=white): Utilizados para controle de versão e colaboração no desenvolvimento do projeto.
+- ![Git](https://img.shields.io/badge/Git-Commit-black?style=flat-square&logo=git&logoColor=white): Utilizado para controle de versão.
+- ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github&logoColor=white): Repositório hospedado no GitHub para colaboração no desenvolvimento do projeto.
 
 ## ⚙️ Funcionalidades
 
@@ -18,3 +19,5 @@ Este projeto foi desenvolvido por mim como parte de um sistema de gerenciamento 
 ## 👨‍💻 Autor
 
 Carlos Abritta - [LinkedIn](https://www.linkedin.com/in/carlos-abritta)
+
+
