@@ -18,6 +18,3 @@ Este projeto foi desenvolvido por mim como parte de um sistema de gerenciamento 
 
 Carlos Abritta - [LinkedIn](https://www.linkedin.com/in/carlos-abritta)
 
-## 📄 Licença
-
-Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - veja o arquivo LICENSE.md para mais detalhes.
